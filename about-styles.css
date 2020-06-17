@@ -1,0 +1,21 @@
+
+body{
+    background-color: #6B8E23;
+}
+nav {
+    display: flex;
+    justify-content: flex-end;
+    width: 100%;
+    padding-right: 2%;
+  }
+  
+.contacts ul li {
+    margin-left:50px;
+    list-style:none;
+    font-size:50px;
+  }
+  
+  .contacts ul li .fa {
+    color:lightblue;
+  }
+
